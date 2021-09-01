@@ -1,4 +1,7 @@
 ### Salve, Bem vindo!
+📑Me chamo Ronaldo, atualmente curso Engenharia de Computação pela Universidade Federal de Ouro Preto
+
+
 
 
  <div>
@@ -20,14 +23,14 @@
   <img align="right" height="200" width="200" src="https://media2.giphy.com/media/l0MYKDrj6SXHz8YYU/giphy.gif">
 </div>
   
-  -> IDEs e Editores de codigo
+  💻 IDEs e Editores de codigo
   <div style="display: inline_block">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
 </div>
-  ->Redes Sociais
+  📱Redes Sociais
   <div> 
   <a href="https://instagram.com/ronaldoluiz.freitas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ronaldinho.lfs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
