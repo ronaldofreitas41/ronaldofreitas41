@@ -30,7 +30,7 @@
   <img align="center" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">  
-  <img align="center" height="50" width="50" src="	https://img.icons8.com/color/480/sap.png">  
+  <img align="center" height="50" width="50" src="https://icons8.com.br/icon/38192/sap">  
 </div>
   📱Redes Sociais
   <div> 
