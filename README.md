@@ -1,5 +1,5 @@
 ### Salve, Bem vindo!
-📑Me chamo Ronaldo, atualmente curso Engenharia de Computação pela Universidade Federal de Ouro Preto
+📑Me chamo Ronaldo, atualmente curso Engenharia de Computação pela Universidade Federal de Ouro Preto, e atualmente sou estagiario prestando consultoria SAP-ABAP pela SEIDOR
 
 
 
@@ -30,7 +30,7 @@
   <img align="center" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">  
-  <img align="center" height="50" width="50" src="https://icons8.com.br/icon/38192/sap">  
+  
 </div>
   📱Redes Sociais
   <div> 
