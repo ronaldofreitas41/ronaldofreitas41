@@ -1,5 +1,5 @@
 ### Salve, Bem vindo!
-📑Me chamo Ronaldo, atualmente curso Engenharia de Computação pela Universidade Federal de Ouro Preto, e atualmente sou estagiario prestando consultoria SAP-ABAP pela SEIDOR
+📑Me chamo Ronaldo, atualmente curso Engenharia de Computação pela Universidade Federal de Ouro Preto, e atualmente sou Alaista de sistemas, pela empresa BIO EXTRATUS cosméticos naturais
 
 
 
