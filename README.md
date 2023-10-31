@@ -20,6 +20,8 @@
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">    
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png">
+  <img align="center" height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-512.png">
   <img align="right" height="200" width="200" src="https://media2.giphy.com/media/l0MYKDrj6SXHz8YYU/giphy.gif">
 </div>
   
